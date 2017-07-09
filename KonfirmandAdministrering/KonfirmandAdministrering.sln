@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F814F134-3CFB-4C9B-ACAF-E4DE99AD1C7B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{656441C3-16EA-4B92-9A8F-13FE744FFFD6}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "KonfirmandAdministrering", "src\KonfirmandAdministrering\KonfirmandAdministrering.xproj", "{BF6977CE-0EE7-4A9C-98F0-245D377C300D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF6977CE-0EE7-4A9C-98F0-245D377C300D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6977CE-0EE7-4A9C-98F0-245D377C300D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6977CE-0EE7-4A9C-98F0-245D377C300D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6977CE-0EE7-4A9C-98F0-245D377C300D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BF6977CE-0EE7-4A9C-98F0-245D377C300D} = {F814F134-3CFB-4C9B-ACAF-E4DE99AD1C7B}
+	EndGlobalSection
+EndGlobal
